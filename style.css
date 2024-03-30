@@ -46,3 +46,47 @@
     margin-left: 60px;
     cursor: pointer;
 }
+
+/* ====== Hero Section ====== */
+
+.hero-section {
+    display: flex;
+    padding: 0 100px;
+    padding-bottom: 30px;
+}
+.hero-section__left {
+    padding-right: 110px;
+}
+
+.hero-section__img {
+    width: 594px;
+    height: 606x;
+    margin-top: 40px;
+    margin-left: 187px;
+}
+.hero-section__h1 {
+    font-weight: 700;
+    font-size: 60px;
+    color: #323b4b;
+    line-height: 70px;
+    margin-top: 130px;
+    margin-bottom: 25px;
+}
+.hero-section__p1 {
+    font-weight: 500;
+    font-size: 20px;
+    color: #8a94a6;
+    line-height: 35px;
+    margin-bottom: 25px;
+}
+.hero-section__p2 {
+    /* font-weight: 500; */
+    font-size: 24px;
+    font-family: inter;
+    color: #377dff;
+}
+.hero-section__right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
