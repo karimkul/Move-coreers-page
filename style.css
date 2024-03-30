@@ -90,3 +90,65 @@
     justify-content: center;
     align-items: center;
 }
+
+/* =======  Hero Section Offers ====== */
+.hero-section__offers {
+    background-color: #fafbfc;
+    padding-top: 100px;
+    height: 1099px;
+}
+.hero-section-offers__h2 {
+    font-size: 60px;
+    font-weight: 700;
+    font-family: inter;
+    text-align: center;
+    color: #323b4b;
+    margin-bottom: 40px;
+}
+
+.hero-section-offers__p {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 35px;
+    font-family: inter;
+    text-align: center;
+    color: #8a94a6;
+    padding-bottom: 50px;
+}
+.hero-section__cards {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.hero-section__top {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px;
+}
+.cards {
+    height: 285px;
+    width: 604;
+    background-color: #ffffff;
+}
+
+.hero-section-cards__bottom {
+    display: flex;
+    justify-content: space-between;
+}
+.card1-icon {
+    padding: 30px 0 30px 30px;
+}
+.card1-h3 {
+    font-size: 28px;
+    font-weight: 700;
+    font-family: inter;
+    color: #323b4b;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.card1-p {
+    font-family: inter;
+    font-size: 18px;
+    font-weight: 500;
+    color: #8a94a6;
+    padding-left: 30px;
+}
