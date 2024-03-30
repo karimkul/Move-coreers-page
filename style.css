@@ -186,3 +186,78 @@
     color: #8a94a6;
     margin-top: 40px;
 }
+
+/* ===== Hero Section Vacancy ===== */
+
+.hero-section4__vacancy {
+    background-color: #fafbfc;
+    /* width: 1440px; */
+    height: 1331px;
+    /* margin: 0 auto; */
+    padding: 150px 280px 0 280px;
+}
+.hero-section4__h2 {
+    font-size: 60px;
+    font-weight: 700;
+    font-family: inter;
+    color: #323b4b;
+    text-align: center;
+}
+.hero-section4__p {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 35px;
+    color: #8a94a6;
+    text-align: center;
+    margin-top: 35px;
+    font-family: inter;
+}
+.hero-section4__cards {
+    margin-top: 0px;
+}
+.hero-section4__card0 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 0 30px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    width: 800px;
+}
+.hero-section4__card1 {
+    width: 800px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding: 0 30px;
+    height: 115px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+}
+.section4__card1 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #323b4b;
+    font-family: inter;
+}
+.section4__card9 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #8a94a6;
+    font-family: inter;
+}
+.hero-section4__btn {
+    width: 604px;
+    height: 66px;
+    background-color: #e5f1ff;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #377dff;
+    font-family: inter;
+    margin-left: 180px;
+    margin-top: 50px;
+}
